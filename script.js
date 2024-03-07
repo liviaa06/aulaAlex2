@@ -18,7 +18,7 @@ if (forma === 'retângulo') {
 
 console.log(area)*/
 
-const forma = 'triangulo';
+/*const forma = 'triangulo';
 const altura = 5;
 const comprimento = 7;
 let area;
@@ -28,5 +28,8 @@ if (forma === 'quadrado') {
 } else {
     area = (altura * comprimento) / 2;
 }
-console.log(area);
+console.log(area);*/
+
+let telefone = 12341234;
+console.log("O telefone é " + telefone.toString()); // o .toString() é uma outra forma para  fazer essa conversão, que é mais parecida com outras linguagens de programação.
 
